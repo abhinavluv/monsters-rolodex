@@ -1,0 +1,10 @@
+.SearchBox {
+    -webkit-appearance: none;
+    border: 1px solid #e48d3b;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px;
+    width: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
